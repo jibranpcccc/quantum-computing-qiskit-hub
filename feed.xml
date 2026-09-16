@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Computing &amp; Qiskit Hub</title>
+    <link>https://quantum-computing-qiskit-hub.vercel.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Wed, 16 Sep 2026 10:25:44 GMT</lastBuildDate>
+    <atom:link href="https://quantum-computing-qiskit-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Quantum Computing &amp; Qiskit Hub Initial Release</title>
+      <link>https://quantum-computing-qiskit-hub.vercel.app/</link>
+      <pubDate>Wed, 16 Sep 2026 10:25:44 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
