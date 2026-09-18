@@ -4,10 +4,17 @@
     <title>Quantum Computing &amp; Qiskit Hub</title>
     <link>https://quantum-computing-qiskit-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:20:12 GMT</lastBuildDate>
     <atom:link href="https://quantum-computing-qiskit-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/quantum-computing-qiskit-hub/#quantum-computing-qiskit-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:20:12 GMT</pubDate>
+      <description>Newly verified community added to Quantum Computing &amp; Qiskit Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>Quantum Computing &amp; Qiskit Hub Initial Release</title>
       <link>https://quantum-computing-qiskit-hub.vercel.app/</link>
       <pubDate>Wed, 16 Sep 2026 10:25:44 GMT</pubDate>
